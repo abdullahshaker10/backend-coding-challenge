@@ -48,7 +48,6 @@ python3 manage.py runserver
                 :
             },
             {
-              
                 "id": 123548579,
                 :
                 :
