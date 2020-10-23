@@ -38,7 +38,7 @@ python3 manage.py runserver
    - Request Arguments: date.
    - Return languages objects with the repos used this language and number of them.
   ```
-
+{
    "JavaScript": {
         "repos": [
             {
@@ -56,4 +56,5 @@ python3 manage.py runserver
             }
          ],
         "num_repos": 2
-   ```
+ }
+ ```
